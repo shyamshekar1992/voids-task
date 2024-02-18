@@ -1,0 +1,1 @@
+{"version":3,"file":"forecast.dto.js","sourceRoot":"","sources":["../../src/dto/forecast.dto.ts"],"names":[],"mappings":";;;AAAA,MAAa,WAAW;IAMtB,YAAY,EAAU,EAAE,QAAgB,EAAE,IAAU,EAAE,aAAqB;QACzE,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;QACb,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;QACzB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,aAAa,GAAG,aAAa,CAAC;IACrC,CAAC;CACF;AAZD,kCAYC"}
